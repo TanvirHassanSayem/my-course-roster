@@ -1,0 +1,30 @@
+.cart-container{
+    width: 230px;
+    background: #FFF;
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: left;
+    position: fixed;
+    font-size: bold;
+
+}
+
+.underline{
+    width: 230px;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.337);
+}
+    
+ol{
+    list-style-type: decimal;
+    padding-left: 20px;
+    padding-right: 5px;
+    
+}
+p{
+    color: rgba(0, 0, 0, 0.856);
+}
+.blue-title{
+    color: #0d5abecb;
+    font-weight: 500;
+}
